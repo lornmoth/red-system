@@ -1,0 +1,4 @@
+type = "Category"
+name="PS4"
+parents=["sys"]
+aliases=["ps4"]

@@ -1,0 +1,4 @@
+type = "Category"
+name="N64"
+aliases=["n64"]
+parents=["sys"]

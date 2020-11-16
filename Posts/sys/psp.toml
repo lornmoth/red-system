@@ -1,0 +1,4 @@
+type = "Category"
+name="PSP"
+parents=["sys"]
+aliases=["psp"]

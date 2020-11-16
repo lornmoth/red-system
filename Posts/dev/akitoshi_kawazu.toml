@@ -1,0 +1,6 @@
+type = "Category"
+name="akitoshi_kawazu"
+parents=["dev"]
+aliases=["Akitoshi Kawazu"]
+---
+test

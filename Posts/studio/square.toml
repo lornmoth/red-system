@@ -1,0 +1,4 @@
+type = "Category"
+name="square"
+parents=["studio"]
+aliases=["Square"]

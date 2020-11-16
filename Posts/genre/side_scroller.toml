@@ -1,0 +1,3 @@
+type = "Category"
+name="side_scroller"
+parents=["genre"]

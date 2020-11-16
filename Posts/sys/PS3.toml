@@ -1,0 +1,4 @@
+type = "Category"
+name="PS3"
+parents=["sys"]
+aliases=["ps3"]

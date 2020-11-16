@@ -1,0 +1,4 @@
+type = "Category"
+name="NEC-PC"
+parents=["sys"]
+aliases=["nec-pc"]
